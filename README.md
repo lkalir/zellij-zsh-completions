@@ -8,11 +8,11 @@
 
 1.  Clone this repository to your `ZSH_CUSTOM` directory
 
-        git clone https://github.com/lkalir/zellij-completions ${ZSH_CUSTOM:-${ZSH:-~/.oh-my.zsh}/custom}/plugins/zellij-completions
+        git clone https://github.com/lkalir/zellij-zsh-completions ${ZSH_CUSTOM:-${ZSH:-~/.oh-my.zsh}/custom}/plugins/zellij-zsh-completions
 
 2.  Add `zellij` to your plugin list in `.zshrc`
 
-        plugins=(... zellij)
+        plugins=(... zellij-zsh-completions)
 
 ## Contributing
 
